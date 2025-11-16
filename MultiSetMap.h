@@ -1,5 +1,6 @@
-/* MultiSetMap is a header-only library which defines a generic map with sets as values
- * Copyright (C) 2025  <name of author>
+/* 
+ * MultiSetMap is a header-only library which defines a generic map with sets as values
+ * Copyright (C) 2025 Adam Riha
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
